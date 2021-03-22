@@ -3,5 +3,5 @@
 A small project in deep learning to take attendance using Face Recognition.
 
 <p align="center">
-  <img src="elon.png" width="350">
+  <img src="elon.png" width="400">
 </p>
