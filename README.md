@@ -6,11 +6,11 @@
 
 <span>
   <img src="elon.png" width="400">
-<span>
+</span>
 
-<p align="center">
+<span>
   <img src="Jack Ma.png" width="400">
-</p>
+</span>
 
 <p align="center">
   <img src="Donald Trump.png" width="400">
