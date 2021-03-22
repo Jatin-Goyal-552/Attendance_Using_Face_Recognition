@@ -12,9 +12,9 @@
   <img src="Jack Ma.png" width="400">
 </span>
 
-<p align="center">
+<span>
   <img src="Donald Trump.png" width="400">
-</p>
+</span>
 <h3> Automatically taking attendance</h3>
 <p align="center">
   <img src="final.png" width="400">
