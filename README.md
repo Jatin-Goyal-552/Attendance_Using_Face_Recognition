@@ -1,6 +1,6 @@
 # Attendance Using Face Recognition
 
-<h2>A small project in deep learning to take attendance using Face Recognition.</h2>                                                                                                         
+<h2>A small project in Deep Learning and Open CV to take attendance using Face Recognition.</h2>                                                                                                         
 <p></p>
 <h3>Recognizing Faces :-</h3> 
 
