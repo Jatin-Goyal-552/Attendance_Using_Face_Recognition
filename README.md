@@ -1,10 +1,10 @@
-# Attendance_Using_Face_Recognition
+# Attendance Using Face Recognition
 
-<h1>A small project in deep learning to take attendance using Face Recognition.</h1>                                                                                                         
+<h2>A small project in deep learning to take attendance using Face Recognition.</h2>                                                                                                         
 <p></p>
 <h3>Recognizing Faces</h3> 
 
-<p align="center">
+<p >
   <img src="elon.png" width="400">
 </p>
 
