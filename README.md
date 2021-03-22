@@ -4,9 +4,9 @@
 <p></p>
 <h3>Recognizing Faces</h3> 
 
-<p >
+<span>
   <img src="elon.png" width="400">
-</p>
+<span>
 
 <p align="center">
   <img src="Jack Ma.png" width="400">
